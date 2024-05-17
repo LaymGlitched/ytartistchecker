@@ -1,1 +1,1 @@
-# ytartistchecker.github.io
+# YouTube OAC Checker.
